@@ -1,0 +1,12 @@
+{
+  "name": "eq-dashboard-stream",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Headless-display launcher that opens the earthquake dashboard in Chromium so it can be screen-captured and streamed to YouTube.",
+  "scripts": {
+    "start": "node launch.js"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}
